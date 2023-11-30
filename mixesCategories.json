@@ -43,5 +43,10 @@
     "id": 9,
     "label": "Relax",
     "isSelected": false
+  },
+  {
+    "id": 10,
+    "label": "Farm",
+    "isSelected": false
   }
 ]
