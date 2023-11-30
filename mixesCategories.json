@@ -7,41 +7,41 @@
   {
     "id": 2,
     "label": "Favorites",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": 3,
     "label": "Rain",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": 4,
     "label": "Nature",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": 5,
     "label": "City",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": 6,
     "label": "ASMR",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": 7,
     "label": "Concentration",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": 8,
     "label": "Sleep",
-    "isSelected": true
+    "isSelected": false
   },
   {
     "id": 9,
     "label": "Relax",
-    "isSelected": true
+    "isSelected": false
   }
 ]
