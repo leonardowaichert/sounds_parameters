@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "label": "All",
+    "isSelected": true
+  },
+  {
+    "id": 2,
+    "label": "Favorites",
+    "isSelected": true
+  },
+  {
+    "id": 3,
+    "label": "Rain",
+    "isSelected": true
+  },
+  {
+    "id": 4,
+    "label": "Nature",
+    "isSelected": true
+  },
+  {
+    "id": 5,
+    "label": "City",
+    "isSelected": true
+  },
+  {
+    "id": 6,
+    "label": "ASMR",
+    "isSelected": true
+  },
+  {
+    "id": 7,
+    "label": "Concentration",
+    "isSelected": true
+  },
+  {
+    "id": 8,
+    "label": "Sleep",
+    "isSelected": true
+  },
+  {
+    "id": 9,
+    "label": "Relax",
+    "isSelected": true
+  }
+]
