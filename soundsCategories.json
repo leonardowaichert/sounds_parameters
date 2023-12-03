@@ -68,5 +68,12 @@
     "isSelected": false,
     "isVisible": true,
     "showInAllFilter": true
+  },
+  {
+    "id": 11,
+    "label": "Farm",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
   }
 ]
