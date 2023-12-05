@@ -13,7 +13,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/calm_river.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -33,7 +33,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/calm_waves.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -53,7 +53,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/driving_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -73,7 +73,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/light_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -93,7 +93,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/rain_on_umbrella.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -113,7 +113,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/waterfall.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -133,7 +133,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/calm_river.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -153,7 +153,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/calm_waves.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -173,7 +173,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/driving_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -193,7 +193,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/light_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -213,7 +213,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/rain_on_umbrella.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -233,7 +233,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/waterfall.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -253,7 +253,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/calm_river.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -273,7 +273,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/calm_waves.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -293,7 +293,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/driving_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -313,7 +313,7 @@
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundFile": "",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/light_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
