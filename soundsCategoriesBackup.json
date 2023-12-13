@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "label": "All",
+    "isSelected": true,
+    "isVisible": false,
+    "showInAllFilter": false
+  },
+  {
+    "id": 2,
+    "label": "Favorites",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": false
+  },
+  {
+    "id": 3,
+    "label": "Rain",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  },
+  {
+    "id": 4,
+    "label": "Animals",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  },
+  {
+    "id": 5,
+    "label": "Nature",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  },
+  {
+    "id": 6,
+    "label": "City",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  },
+  {
+    "id": 7,
+    "label": "ASMR",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  },
+  {
+    "id": 8,
+    "label": "Concentration",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  },
+  {
+    "id": 9,
+    "label": "Sleep",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  },
+  {
+    "id": 10,
+    "label": "Medidation",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  },
+  {
+    "id": 11,
+    "label": "Farm",
+    "isSelected": false,
+    "isVisible": true,
+    "showInAllFilter": true
+  }
+]
