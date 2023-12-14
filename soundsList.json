@@ -12,8 +12,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/calm_river.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/calm_river.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -32,8 +32,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/campfire.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/campfire.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -52,8 +52,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/calm_wave.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/calm_wave.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -72,8 +72,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/driving_in_rain.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/driving_in_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -92,8 +92,8 @@
     "isPremium": true,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/heavy_rain.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/heavy_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -112,8 +112,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/heavy_thunder.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/heavy_thunder.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -132,8 +132,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/light_rain.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/light_rain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -152,8 +152,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/light_thunder.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/light_thunder.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -172,8 +172,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/rain_in_forest.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/rain_in_forest.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -192,8 +192,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/rain_on_roof.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/rain_on_roof.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -212,8 +212,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/rain_on_tent.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/rain_on_tent.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -232,8 +232,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/rain_on_umbrella.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/rain_on_umbrella.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -252,8 +252,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/rain_on_window.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/rain_on_window.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -272,8 +272,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/underwater.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/underwater.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -292,8 +292,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/waterfall.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/waterfall.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -312,8 +312,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/wind_in_trees.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/nature/wind_in_trees.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -332,8 +332,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/boiling_water.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/home/boiling_water.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -352,8 +352,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/fireplace.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/home/fireplace.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -372,8 +372,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/oscillation_fan.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/home/oscillation_fan.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -392,8 +392,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/water_drop.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/home/water_drop.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -412,8 +412,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/water_fountain.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/home/water_fountain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -432,8 +432,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/birds.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/birds.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -452,8 +452,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/cat_purring.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/cat_purring.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -472,8 +472,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/chicken.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/chicken.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -492,8 +492,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/cicada.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/cicada.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -512,8 +512,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/ducks.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/ducks.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -532,8 +532,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/frogs.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/frogs.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -552,8 +552,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/owl.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/owl.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -572,8 +572,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/seagulls.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/seagulls.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -592,8 +592,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/tropical_birds.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/tropical_birds.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -612,8 +612,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/bamboo_chime.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/relaxation/bamboo_chime.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -632,8 +632,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/calm_piano.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/relaxation/calm_piano.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -652,8 +652,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/foutain.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/relaxation/fountain.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -672,8 +672,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/jazz.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/relaxation/jazz.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -692,8 +692,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/lofi.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/relaxation/lofi.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -712,8 +712,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/soft_piano.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/relaxation/soft_piano.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -732,8 +732,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/tibetan_bowl.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/relaxation/tibetan_bowl.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -752,8 +752,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/airplane.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/airplane.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -772,8 +772,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/ambulance.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/ambulance.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -792,8 +792,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/coffee_shop.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/coffee_shop.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -812,8 +812,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/crowd.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/crowd.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -832,8 +832,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/keyboard.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/keyboard.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -852,8 +852,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/metro_station.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/metro_station.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -872,8 +872,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/office.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/office.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -892,8 +892,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/playground.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/playground.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -912,8 +912,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/traffic.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/traffic.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
@@ -932,8 +932,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "",
-    "soundFile": "",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds/train.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/train.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
