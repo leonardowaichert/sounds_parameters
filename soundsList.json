@@ -93,7 +93,7 @@
     "isSelected": false,
     "isPlaying": false,
     "isActive": false,
-    "isPremium": true,
+    "isPremium": false,
     "isFavorite": false,
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/heavy_rain.png",
