@@ -684,8 +684,8 @@
     "isPremium": false,
     "isFavorite": false,
     "volume": 1,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/foutain.png",
-    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds_thumbnails/foutain.png",
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/fountain.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds_thumbnails/fountain.png",
     "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/relaxation/fountain.mp3",
     "handle": {
       "primarySound": null,
