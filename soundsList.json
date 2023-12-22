@@ -1001,7 +1001,7 @@
     "volume": 1,
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/cricket.png",
     "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds_thumbnails/cricket_min.png",
-    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/cricket.mp3",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/cricket.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
