@@ -17,15 +17,15 @@
     "soundsList": [
       {
         "id": 7,
-        "volume": 0.7
+        "volume": 0.4
       },
       {
         "id": 32,
-        "volume": 0.9
+        "volume": 0.3
       },
       {
         "id": 8,
-        "volume": 0.5
+        "volume": 0.6
       }
     ]
   },
@@ -47,11 +47,15 @@
     "soundsList": [
       {
         "id": 18,
-        "volume": 0.7
+        "volume": 0.3
       },
       {
         "id": 13,
         "volume": 0.9
+      },
+      {
+        "id": 49,
+        "volume": 0.5
       }
     ]
   },
@@ -73,11 +77,11 @@
     "soundsList": [
       {
         "id": 7,
-        "volume": 1
+        "volume": 0.7
       },
       {
         "id": 16,
-        "volume": 0.7
+        "volume": 0.5
       },
       {
         "id": 22,
@@ -85,7 +89,7 @@
       },
       {
         "id": 25,
-        "volume": 0.5
+        "volume": 0.2
       }
     ]
   },
@@ -111,15 +115,15 @@
       },
       {
         "id": 49,
-        "volume": 0.7
+        "volume": 0.4
       },
       {
         "id": 28,
-        "volume": 0.5
+        "volume": 0.3
       },
       {
         "id": 1,
-        "volume": 0.4
+        "volume": 0.2
       }
     ]
   },
@@ -141,11 +145,11 @@
     "soundsList": [
       {
         "id": 7,
-        "volume": 0.9
+        "volume": 0.5
       },
       {
         "id": 8,
-        "volume": 0.7
+        "volume": 0.4
       }
     ]
   },
@@ -167,15 +171,15 @@
     "soundsList": [
       {
         "id": 5,
-        "volume": 0.9
+        "volume": 0.6
       },
       {
         "id": 8,
-        "volume": 0.7
+        "volume": 0.4
       },
       {
         "id": 47,
-        "volume": 0.7
+        "volume": 0.3
       }
     ]
   },
@@ -197,11 +201,11 @@
     "soundsList": [
       {
         "id": 37,
-        "volume": 0.8
+        "volume": 0.5
       },
       {
         "id": 21,
-        "volume": 0.7
+        "volume": 0.3
       }
     ]
   },
@@ -223,7 +227,7 @@
     "soundsList": [
       {
         "id": 5,
-        "volume": 1
+        "volume": 0.6
       },
       {
         "id": 6,
@@ -249,15 +253,15 @@
     "soundsList": [
       {
         "id": 3,
-        "volume": 1
+        "volume": 0.8
       },
       {
         "id": 46,
-        "volume": 0.4
+        "volume": 0.3
       },
       {
         "id": 29,
-        "volume": 0.5
+        "volume": 0.2
       }
     ]
   },
@@ -279,11 +283,11 @@
     "soundsList": [
       {
         "id": 41,
-        "volume": 0.8
+        "volume": 0.7
       },
       {
         "id": 34,
-        "volume": 0.5
+        "volume": 0.2
       }
     ]
   },
@@ -305,11 +309,11 @@
     "soundsList": [
       {
         "id": 45,
-        "volume": 0.8
+        "volume": 0.7
       },
       {
         "id": 43,
-        "volume": 0.5
+        "volume": 0.3
       }
     ]
   },
@@ -331,15 +335,15 @@
     "soundsList": [
       {
         "id": 26,
-        "volume": 0.8
+        "volume": 0.5
       },
       {
         "id": 24,
-        "volume": 0.5
+        "volume": 0.2
       },
       {
         "id": 22,
-        "volume": 0.5
+        "volume": 0.2
       }
     ]
   },
@@ -361,15 +365,15 @@
     "soundsList": [
       {
         "id": 1,
-        "volume": 0.9
+        "volume": 0.6
       },
       {
         "id": 49,
-        "volume": 0.7
+        "volume": 0.4
       },
       {
         "id": 28,
-        "volume": 0.5
+        "volume": 0.3
       }
     ]
   },
@@ -391,15 +395,15 @@
     "soundsList": [
       {
         "id": 11,
-        "volume": 0.9
-      },
-      {
-        "id": 16,
         "volume": 0.7
       },
       {
+        "id": 16,
+        "volume": 0.5
+      },
+      {
         "id": 1,
-        "volume": 0.4
+        "volume": 0.2
       }
     ]
   },
@@ -420,12 +424,12 @@
     "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/sleep_well_min.png",
     "soundsList": [
       {
-        "id": 13,
-        "volume": 0.9
+        "id": 10,
+        "volume": 0.5
       },
       {
         "id": 8,
-        "volume": 0.7
+        "volume": 0.5
       }
     ]
   }
