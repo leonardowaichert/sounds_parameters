@@ -424,11 +424,15 @@
     "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/sleep_well_min.png",
     "soundsList": [
       {
-        "id": 10,
+        "id": 7,
         "volume": 0.5
       },
       {
         "id": 8,
+        "volume": 0.1
+      },
+      {
+        "id": 23,
         "volume": 0.5
       }
     ]
