@@ -1,35 +1,130 @@
 {
   "1": {
     "id": 1,
-    "label": "Beach day",
+    "label": "Piano rain",
     "category": {
-      "id": 3,
-      "label": "Rain"
+      "id": 5,
+      "label": "Relax"
     },
     "isSelected": false,
     "isVisible": true,
     "isPlaying": false,
     "isActive": false,
-    "isPremium": true,
-    "isFavorite": true,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/piano_rain.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/piano_rain_min.png",
     "soundsList": [
       {
-        "id": 1,
+        "id": 7,
         "volume": 0.7
       },
       {
-        "id": 5,
+        "id": 32,
         "volume": 0.9
       },
       {
-        "id": 3,
-        "volume": 1
+        "id": 8,
+        "volume": 0.5
       }
     ]
   },
   "2": {
     "id": 2,
+    "label": "Peaceful night",
+    "category": {
+      "id": 3,
+      "label": "Sleep"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/peaceful_night.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/peaceful_night_min.png",
+    "soundsList": [
+      {
+        "id": 18,
+        "volume": 0.7
+      },
+      {
+        "id": 13,
+        "volume": 0.9
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "label": "Rain in forest",
+    "category": {
+      "id": 4,
+      "label": "Nature"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/rain_in_forest.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/rain_in_forest_min.png",
+    "soundsList": [
+      {
+        "id": 7,
+        "volume": 1
+      },
+      {
+        "id": 16,
+        "volume": 0.7
+      },
+      {
+        "id": 22,
+        "volume": 0.5
+      },
+      {
+        "id": 25,
+        "volume": 0.5
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "label": "Camp friends",
+    "category": {
+      "id": 4,
+      "label": "Nature"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/camp_friends.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/camp_friends_min.png",
+    "soundsList": [
+      {
+        "id": 2,
+        "volume": 0.9
+      },
+      {
+        "id": 49,
+        "volume": 0.7
+      },
+      {
+        "id": 28,
+        "volume": 0.5
+      },
+      {
+        "id": 1,
+        "volume": 0.4
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
     "label": "Light rain",
     "category": {
       "id": 4,
@@ -40,148 +135,297 @@
     "isPlaying": false,
     "isActive": false,
     "isPremium": false,
-    "isFavorite": true,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/light_rain.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/light_rain_min.png",
     "soundsList": [
-      {
-        "id": 2,
-        "volume": 0.7
-      },
       {
         "id": 7,
         "volume": 0.9
-      }
-    ]
-  },
-  "3": {
-    "id": 3,
-    "label": "Rain in forest",
-    "category": {
-      "id": 5,
-      "label": "City"
-    },
-    "isSelected": false,
-    "isVisible": true,
-    "isPlaying": false,
-    "isActive": false,
-    "isPremium": false,
-    "isFavorite": false,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundsList": [
+      },
       {
-        "id": 2,
+        "id": 8,
         "volume": 0.7
-      },
-      {
-        "id": 5,
-        "volume": 0.9
-      },
-      {
-        "id": 3,
-        "volume": 1
-      }
-    ]
-  },
-  "4": {
-    "id": 4,
-    "label": "Relaxation",
-    "category": {
-      "id": 3,
-      "label": "Rain"
-    },
-    "isSelected": false,
-    "isVisible": true,
-    "isPlaying": false,
-    "isActive": false,
-    "isPremium": true,
-    "isFavorite": true,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundsList": [
-      {
-        "id": 2,
-        "volume": 0.7
-      },
-      {
-        "id": 5,
-        "volume": 0.9
-      },
-      {
-        "id": 3,
-        "volume": 1
-      }
-    ]
-  },
-  "5": {
-    "id": 5,
-    "label": "Peaceful night",
-    "category": {
-      "id": 3,
-      "label": "Rain"
-    },
-    "isSelected": false,
-    "isVisible": true,
-    "isPlaying": false,
-    "isActive": false,
-    "isPremium": true,
-    "isFavorite": false,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
-    "soundsList": [
-      {
-        "id": 2,
-        "volume": 0.7
-      },
-      {
-        "id": 3,
-        "volume": 0.9
       }
     ]
   },
   "6": {
     "id": 6,
-    "label": "City life",
+    "label": "Rain in city",
     "category": {
-      "id": 5,
-      "label": "City"
+      "id": 8,
+      "label": "Work"
     },
     "isSelected": false,
     "isVisible": true,
     "isPlaying": false,
     "isActive": false,
     "isPremium": false,
-    "isFavorite": true,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/rain_in_city.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/rain_in_city_min.png",
     "soundsList": [
       {
-        "id": 2,
+        "id": 5,
+        "volume": 0.9
+      },
+      {
+        "id": 8,
         "volume": 0.7
       },
       {
-        "id": 3,
-        "volume": 0.9
+        "id": 47,
+        "volume": 0.7
       }
     ]
   },
   "7": {
     "id": 7,
-    "label": "Friendly Campfire",
+    "label": "Meditation",
+    "category": {
+      "id": 6,
+      "label": "Meditation"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/meditation.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/meditation_min.png",
+    "soundsList": [
+      {
+        "id": 37,
+        "volume": 0.8
+      },
+      {
+        "id": 21,
+        "volume": 0.7
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "label": "Thunderstorm",
+    "category": {
+      "id": 4,
+      "label": "Nature"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/thunderstorm.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/thunderstorm_min.png",
+    "soundsList": [
+      {
+        "id": 5,
+        "volume": 1
+      },
+      {
+        "id": 6,
+        "volume": 0.7
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "label": "Beach day",
+    "category": {
+      "id": 5,
+      "label": "Relax"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/beach_day.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/beach_day_min.png",
+    "soundsList": [
+      {
+        "id": 3,
+        "volume": 1
+      },
+      {
+        "id": 46,
+        "volume": 0.4
+      },
+      {
+        "id": 29,
+        "volume": 0.5
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "label": "Coffee time",
+    "category": {
+      "id": 7,
+      "label": "Concentration"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/coffee_time.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/coffee_time_min.png",
+    "soundsList": [
+      {
+        "id": 41,
+        "volume": 0.8
+      },
+      {
+        "id": 34,
+        "volume": 0.5
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "label": "Work day",
     "category": {
       "id": 8,
+      "label": "Work"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/work_day.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/work_day_min.png",
+    "soundsList": [
+      {
+        "id": 45,
+        "volume": 0.8
+      },
+      {
+        "id": 43,
+        "volume": 0.5
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "label": "Farm day",
+    "category": {
+      "id": 4,
+      "label": "Nature"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/farm_day.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/farm_day_min.png",
+    "soundsList": [
+      {
+        "id": 26,
+        "volume": 0.8
+      },
+      {
+        "id": 24,
+        "volume": 0.5
+      },
+      {
+        "id": 22,
+        "volume": 0.5
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "label": "Night creek",
+    "category": {
+      "id": 4,
+      "label": "Nature"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/night_creek.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/night_creek_min.png",
+    "soundsList": [
+      {
+        "id": 1,
+        "volume": 0.9
+      },
+      {
+        "id": 49,
+        "volume": 0.7
+      },
+      {
+        "id": 28,
+        "volume": 0.5
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "label": "Rain camp",
+    "category": {
+      "id": 5,
+      "label": "Relax"
+    },
+    "isSelected": false,
+    "isVisible": true,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/rain_camp.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/rain_camp_min.png",
+    "soundsList": [
+      {
+        "id": 11,
+        "volume": 0.9
+      },
+      {
+        "id": 16,
+        "volume": 0.7
+      },
+      {
+        "id": 1,
+        "volume": 0.4
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "label": "Sleep well",
+    "category": {
+      "id": 3,
       "label": "Sleep"
     },
     "isSelected": false,
     "isVisible": true,
     "isPlaying": false,
     "isActive": false,
-    "isFavorite": true,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/food-hotel-cards/main/chicken.png",
+    "isPremium": false,
+    "isFavorite": false,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/sleep_well.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/mixes_thumbnails/sleep_well_min.png",
     "soundsList": [
       {
-        "id": 2,
-        "volume": 0.7
+        "id": 13,
+        "volume": 0.9
       },
       {
-        "id": 3,
-        "volume": 0.9
+        "id": 8,
+        "volume": 0.7
       }
     ]
   }
