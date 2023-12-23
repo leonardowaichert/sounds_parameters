@@ -629,6 +629,27 @@
       "secondarySound": null
     }
   },
+  "49": {
+    "id": 49,
+    "label": "Cricket",
+    "category": {
+      "id": 5,
+      "label": "Animals"
+    },
+    "isSelected": false,
+    "isPlaying": false,
+    "isActive": false,
+    "isPremium": false,
+    "isFavorite": false,
+    "volume": 1,
+    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/cricket.png",
+    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds_thumbnails/cricket_min.png",
+    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/cricket.mp3",
+    "handle": {
+      "primarySound": null,
+      "secondarySound": null
+    }
+  },
   "31": {
     "id": 31,
     "label": "Bamboo Chime",
@@ -981,27 +1002,6 @@
     "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/train.png",
     "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds_thumbnails/train_min.png",
     "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/city/train.mp3",
-    "handle": {
-      "primarySound": null,
-      "secondarySound": null
-    }
-  },
-  "49": {
-    "id": 49,
-    "label": "Cricket",
-    "category": {
-      "id": 5,
-      "label": "Animals"
-    },
-    "isSelected": false,
-    "isPlaying": false,
-    "isActive": false,
-    "isPremium": false,
-    "isFavorite": false,
-    "volume": 1,
-    "imageSource": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/images_source/cricket.png",
-    "imageThumbnail": "https://raw.githubusercontent.com/leonardowaichert/sounds_parameters/main/images/sounds_thumbnails/cricket_min.png",
-    "soundFile": "https://github.com/leonardowaichert/sounds_parameters/raw/main/sounds/animals/cricket.mp3",
     "handle": {
       "primarySound": null,
       "secondarySound": null
