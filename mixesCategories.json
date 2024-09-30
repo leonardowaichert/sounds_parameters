@@ -1,42 +1,42 @@
-{
-  "1": {
+[
+  {
     "id": 1,
     "label": "All",
     "isSelected": true
   },
-  "2": {
+  {
     "id": 2,
     "label": "Favorites",
     "isSelected": false
   },
-  "3": {
+  {
     "id": 3,
     "label": "Sleep",
     "isSelected": false
   },
-  "4": {
+  {
     "id": 4,
     "label": "Nature",
     "isSelected": false
   },
-  "5": {
+  {
     "id": 5,
     "label": "Relax",
     "isSelected": false
   },
-  "6": {
+  {
     "id": 6,
     "label": "Meditation",
     "isSelected": false
   },
-  "7": {
+  {
     "id": 7,
     "label": "Concentration",
     "isSelected": false
   },
-  "8": {
+  {
     "id": 8,
     "label": "Work",
     "isSelected": false
   }
-}
+]
