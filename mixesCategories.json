@@ -1,4 +1,4 @@
-
+{
   {
     "id": 1,
     "label": "All",
@@ -39,3 +39,4 @@
     "label": "Work",
     "isSelected": false
   }
+}
